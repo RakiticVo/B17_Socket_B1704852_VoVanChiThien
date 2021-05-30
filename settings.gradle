@@ -1,0 +1,2 @@
+rootProject.name = "B17_Socket_B1704852_VoVanChiThien"
+include ':app'
